@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/making-react-online/static/css/main.94d07cd8.css",
+    "main.js": "/making-react-online/static/js/main.f16050a1.js",
+    "static/js/787.0dc48e5a.chunk.js": "/making-react-online/static/js/787.0dc48e5a.chunk.js",
+    "static/media/1.jpg": "/making-react-online/static/media/1.f04f790cf24f68a5ef0c.jpg",
+    "static/media/4.jpg": "/making-react-online/static/media/4.0d6e844a15b7a593724c.jpg",
+    "static/media/3.jpg": "/making-react-online/static/media/3.83b424173eae927a54ba.jpg",
+    "static/media/2.jpg": "/making-react-online/static/media/2.92eac282754d7f2dde9a.jpg",
+    "index.html": "/making-react-online/index.html",
+    "main.94d07cd8.css.map": "/making-react-online/static/css/main.94d07cd8.css.map",
+    "main.f16050a1.js.map": "/making-react-online/static/js/main.f16050a1.js.map",
+    "787.0dc48e5a.chunk.js.map": "/making-react-online/static/js/787.0dc48e5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94d07cd8.css",
+    "static/js/main.f16050a1.js"
+  ]
+}
