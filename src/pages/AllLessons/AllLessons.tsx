@@ -59,7 +59,7 @@ export const AllLessons: React.FC<{}> = () => {
                     <MyImage/>
                     {/* <MyImage/>
 
-                    <MyImage/>
+                    <MyImage/>l
                     <MyImage/>
                     <MyImage/>
                     <MyImage/>
