@@ -23,6 +23,7 @@ export const AllLessons: React.FC<{}> = () => {
         <Box>
             <TabContext value={number}>
                 <TabList onChange={(e, num) => { setNumber(num) }}>
+                <Tab label="take notes" value="9"/>
                     <Tab label={"useStae"} value={"1"} />
                     <Tab label={"naming conention"} value={"2"} />
                     <Tab label={"fragmet"} value={"3"} />
@@ -31,7 +32,7 @@ export const AllLessons: React.FC<{}> = () => {
                     <Tab label="props" value={"6"}/>
                     <Tab label="Sharing" value={"7"}/>
                     <Tab label="Api concept useEffect" value="8"/>
-                    <Tab label="take notes" value="9"/>
+                   
                     
                 </TabList>
                 <TabPanel value="1">
