@@ -6,6 +6,7 @@ export const TakeNotes:React.FC<{}>=()=>{
 
 console.log()
 let [allData,setAllData]=useState(allNotes.all())
+    console.log(allData)
     return <>
     download pdfs
     {allData.map((val:any)=>{
